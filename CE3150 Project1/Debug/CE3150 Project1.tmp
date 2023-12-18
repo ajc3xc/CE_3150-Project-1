@@ -1,0 +1,81 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega324PB"</DEVICE>
+ <WORKING_DIR>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m324PBdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\Debug\CE3150 Project1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>CE3150 Project1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>CE3150 Project1.map</FILE>
+  <FILE>CE3150 Project1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>36</LINE></INIT>
+  <RESET_COUNT><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>137</LINE></RESET_COUNT>
+  <SET_LEDS><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>147</LINE></SET_LEDS>
+  <QDELAY><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>154</LINE></QDELAY>
+  <MAIN><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>41</LINE></MAIN>
+  <CHECK_UP><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>43</LINE></CHECK_UP>
+  <CHECK_DOWN><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>55</LINE></CHECK_DOWN>
+  <COUNT_MAX><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>119</LINE></COUNT_MAX>
+  <CHECK_RESET><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>69</LINE></CHECK_RESET>
+  <COUNT_MIN><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>127</LINE></COUNT_MIN>
+  <CHECK_SHIFT_MODE><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>80</LINE></CHECK_SHIFT_MODE>
+  <CHECK_LIGHT_UP_MODE><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>91</LINE></CHECK_LIGHT_UP_MODE>
+  <CHECK_SHIFT_WAIT_REL><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>83</LINE></CHECK_SHIFT_WAIT_REL>
+  <SHIFT_MODE><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>282</LINE></SHIFT_MODE>
+  <CHECK_STOPWATCH_MODE><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>104</LINE></CHECK_STOPWATCH_MODE>
+  <CHECK_LIGHT_WAIT_REL><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>96</LINE></CHECK_LIGHT_WAIT_REL>
+  <LIGHT_UP_MODE><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>398</LINE></LIGHT_UP_MODE>
+  <CHECK_STOPWATCH_WAIT_REL><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>109</LINE></CHECK_STOPWATCH_WAIT_REL>
+  <STOPWATCH_MODE><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>202</LINE></STOPWATCH_MODE>
+  <TURN_ON_SPEAKER><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>172</LINE></TURN_ON_SPEAKER>
+  <SET_COUNT><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>142</LINE></SET_COUNT>
+  <AGAIN3><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>156</LINE></AGAIN3>
+  <AGAIN2><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>158</LINE></AGAIN2>
+  <AGAIN1><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>160</LINE></AGAIN1>
+  <SQUARE_WAVE><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>173</LINE></SQUARE_WAVE>
+  <SM_DELAY><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>183</LINE></SM_DELAY>
+  <OUT_LOOP><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>185</LINE></OUT_LOOP>
+  <IN_LOOP><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>187</LINE></IN_LOOP>
+  <UP><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>206</LINE></UP>
+  <DOWN><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>233</LINE></DOWN>
+  <WAIT_UNTIL_REL1><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>212</LINE></WAIT_UNTIL_REL1>
+  <UP_LOOP><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>217</LINE></UP_LOOP>
+  <UP_LOOP_WAIT_TIL_REL><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>228</LINE></UP_LOOP_WAIT_TIL_REL>
+  <STOP_RESET><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>257</LINE></STOP_RESET>
+  <WAIT_UNTIL_REL2><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>238</LINE></WAIT_UNTIL_REL2>
+  <DOWN_LOOP><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>241</LINE></DOWN_LOOP>
+  <DOWN_LOOP_WAIT_TIL_REL><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>251</LINE></DOWN_LOOP_WAIT_TIL_REL>
+  <EXIT_STOPWATCH><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>265</LINE></EXIT_STOPWATCH>
+  <WAIT_UNTIL_REL3><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>268</LINE></WAIT_UNTIL_REL3>
+  <SHIFT_LOOP><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>293</LINE></SHIFT_LOOP>
+  <CHECK_SHIFT_LEFT><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>300</LINE></CHECK_SHIFT_LEFT>
+  <CHECK_SHIFT_RIGHT><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>322</LINE></CHECK_SHIFT_RIGHT>
+  <SHIFT_LEFT_WAIT_REL><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>307</LINE></SHIFT_LEFT_WAIT_REL>
+  <RESET_SHIFT_COUNTER><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>371</LINE></RESET_SHIFT_COUNTER>
+  <CHECK_SHIFT_RESET><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>343</LINE></CHECK_SHIFT_RESET>
+  <SHIFT_RIGHT_WAIT_REL><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>328</LINE></SHIFT_RIGHT_WAIT_REL>
+  <SET_SHIFT_COUNTER><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>377</LINE></SET_SHIFT_COUNTER>
+  <CHECK_EXIT><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>357</LINE></CHECK_EXIT>
+  <SHIFT_RESET_WAIT_REL><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>349</LINE></SHIFT_RESET_WAIT_REL>
+  <CHECK_EXIT_WAIT_REL><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>363</LINE></CHECK_EXIT_WAIT_REL>
+  <EXIT_SHIFT_MODE><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>383</LINE></EXIT_SHIFT_MODE>
+  <LIGHT_UP_LEDS><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>404</LINE></LIGHT_UP_LEDS>
+  <LIGHT_WAIT_TIL_RELEASED_1><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>411</LINE></LIGHT_WAIT_TIL_RELEASED_1>
+  <LIGHT_WAIT_TIL_RELEASED_2><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>424</LINE></LIGHT_WAIT_TIL_RELEASED_2>
+  <EXIT_LIGHT_UP_MODE><FILE>C:\Users\13144\Documents\Atmel Studio\CE3150 Project1 V1.1\CE3150 Project1\main.asm</FILE><LINE>430</LINE></EXIT_LIGHT_UP_MODE>
+ </LABELS>
+</ASSEMBLER_INFO>
